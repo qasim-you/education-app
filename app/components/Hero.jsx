@@ -25,7 +25,7 @@ export default function Hero() {
       <Link href="/network">
         <button className="border border-indigo-600 text-indigo-600 px-4 py-2 rounded-md mx-5 hover:bg-indigo-600 hover:text-white transition-colors duration-300">
           {" "}
-          Network Dashboard
+          Network Dashboard 
         </button>
       </Link>
     </motion.div>
